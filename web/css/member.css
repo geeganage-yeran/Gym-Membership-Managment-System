@@ -1,0 +1,42 @@
+
+#Account .activate{
+    background-color: #f5540f;
+    border: none;
+}
+#Account .activate:hover{
+    background-color:#D0470D;
+}
+#Account .activateB{
+    border-color:#f5540f;
+    color: #4c4743;
+}
+#Account .activateB:hover{
+    background-color:#D0470D;
+    color:white;
+}
+.clr{
+    color: #f5540f;
+}
+#Training-Sessions .activate{
+    background-color: #f5540f;
+    border: none;
+}
+#Training-Sessions .activate:hover{
+    background-color:#D0470D;
+}
+#Personal-Trainers .activate{
+    background-color: #f5540f;
+    border: none;
+}
+#Personal-Trainers .activate:hover{
+    background-color:#D0470D;
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.eMessage{
+    color: red;
+}
+.sMessage{
+    color: green;
+}

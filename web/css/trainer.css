@@ -1,0 +1,37 @@
+#Schedule-Classes .activate{
+    background-color: #f5540f;
+    border: none;
+}
+#Schedule-Classes .activate:hover{
+    background-color:#D0470D;
+}
+#Account .activate{
+    background-color: #f5540f;
+    border: none;
+}
+#Account .activate:hover{
+    background-color:#D0470D;
+}
+#Account .activateB{
+    border-color:#f5540f;
+    color: #4c4743;
+}
+#Account .activateB:hover{
+    background-color:#D0470D;
+    color:white;
+}
+.approved{
+    background-color: #FBB293;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.eMessage{
+    color: red;
+}
+.sMessage{
+    color: green;
+}
+.clr{
+    color: #f5540f;
+}
